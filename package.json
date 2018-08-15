@@ -1,0 +1,20 @@
+cls
+{
+  "name": "comp125-s2018-lesson2-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nusratarasg/COMP125-S2018-Lab1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nusratarasg/COMP125-S2018-Lab1/issues"
+  },
+  "homepage": "https://github.com/nusratarasg/COMP125-S2018-Lab1#readme"
+}
